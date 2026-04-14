@@ -1,10 +1,10 @@
-# A Movie Application
+## A Movie Application
 
 ## 🤖 Introduction
 
 Built with React.js for the user interface, and styled with TailwindCSS, this Movie App lets users browse trending movies, search titles, and explore content using the TMDB API. It features a responsive layout and a sleek, modern design.
 
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 - **[React.js]** is a JavaScript library developed by Meta for building user interfaces. It allows developers to create reusable UI components that manage their own state, leading to more efficient and predictable code. React is widely used for developing single-page applications (SPAs) due to its virtual DOM that improves performance and ease of maintenance.
 
@@ -14,7 +14,7 @@ Built with React.js for the user interface, and styled with TailwindCSS, this Mo
 
 - **[Vite]** is a modern build tool that provides a fast development environment for frontend projects. It offers features like hot module replacement (HMR) and optimized builds, enhancing the development experience and performance.
 
-- ## 🔋 Features</a>
+## 🔋 Features</a>
 
 👉 **Browse All Movies**: Explore a wide range of movies available on the platform.
 
@@ -25,3 +25,7 @@ Built with React.js for the user interface, and styled with TailwindCSS, this Mo
 👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
+
+
+
+Thank you for your interest in this project!

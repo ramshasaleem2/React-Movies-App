@@ -4,7 +4,7 @@
 <div align="center">
   <br />
     <a href="">
-      <img src="public/readme/hero.png" alt="Project Banner">
+      <img src="public/hero.png" alt="Project Banner">
     </a>
   <br />
   
